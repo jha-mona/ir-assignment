@@ -69,7 +69,7 @@ def index_documents(docs_path, index_path):
 
 if __name__ == "__main__":
     if len(sys.argv) != 3:
-        print("Usage: python mtc23CS2316-indexer.py <docs_path> <index_path>")
+        print("Usage: python mtc23CS2311-indexer.py <docs_path> <index_path>")
         sys.exit(1)
     docs_path = sys.argv[1]
     index_path = sys.argv[2]
