@@ -57,7 +57,7 @@ IR/
 
 Activate your virtual environment if you haven't already:
 
-    source /home/jasmine/data/pylucene_env/bin/activate
+    source /home//data/pylucene_env/bin/activate
 
 
 Run the indexing script:
