@@ -9,24 +9,22 @@ This repository contains scripts for indexing and searching the TREC Robust docu
 - `trec_eval` tool
 - A virtual environment (optional but recommended)
 
-## Directory Structure
-IR
-├── index/ 
+IR/
+├── index/
 ├── trec678rb/
-│ ├── documents/
-│ ├── qrels/
-│ │ ├── robust_601-700.qrel
-│ │ └── trec678_301-450.qrel
-│ ├── topics/
-│ │ ├── robust.xml
-│ │ └── trec678.xml
+│   ├── documents/
+│   ├── qrels/
+│   │   ├── robust_601-700.qrel
+│   │   └── trec678_301-450.qrel
+│   ├── topics/
+│   │   ├── robust.xml
+│   │   └── trec678.xml
 ├── mtc23CS2311-indexer.py
 ├── mtc23CS2311-searcher.py
 ├── mtc23CS2311-output.txt
 ├── mtc23CS2311-eval.txt
 ├── run_all.sh
 └── test.py
-
 
 
 ## Setup
