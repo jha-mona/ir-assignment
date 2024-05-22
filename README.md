@@ -78,6 +78,8 @@ Run the `trec_eval` command to evaluate the search results:
 
     trec_eval/trec_eval -q trec678rb/qrels/trec678_301-450.qrel mtc23CS2311-output.txt > mtc23CS2311-eval.txt
 
+    
+
 
 ## Files
 
