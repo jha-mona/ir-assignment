@@ -26,6 +26,17 @@ IR/
 ├── run_all.sh
 └── test.py
 
+# TREC Robust Indexing and Searching
+
+This repository contains scripts for indexing and searching the TREC Robust document collection using the Whoosh library. The results are evaluated using the `trec_eval` tool.
+
+## Prerequisites
+- Python 3.x
+- Whoosh library
+- `trec_eval` tool
+- A virtual environment (optional but recommended)
+
+## Directory Structure
 
 ## Setup
 
